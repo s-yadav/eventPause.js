@@ -2,6 +2,7 @@
 eventPause.js v 1.0.0
 Author: sudhanshu yadav
 s-yadav.github.com
+Copyright (c) 2013 Sudhanshu Yadav.
 Dual licensed under the MIT and GPL licenses
 */
 	;(function ($, window, document, undefined) {
