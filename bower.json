@@ -1,0 +1,38 @@
+{
+    "name": "eventPause",
+    "description": "eventPause is a simple and light weight plugin, providing a lot of methods to control events. You don't need to worry about the event handlers assigned for a particular event ,you just can pause and active it whenever you want.",
+    "main": "eventPause.js",
+    "author": {
+        "name": "Sudhanshu Yadav",
+        "email": "sudhanshuyadav2@gmail.com"
+    },
+    "version": "1.4.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/s-yadav/eventPause.js"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/s-yadav/eventPause.js/blob/master/MIT-LICENSE.txt"
+        },
+        {
+            "type": "GPLv2 or Later",
+            "url": "http://opensource.org/licenses/GPL-2.0"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/s-yadav/eventPause.js/issues"
+    },
+    "dependencies": {
+        "jquery": ">=1.6"
+    },
+    "keywords": [
+        "event-pause",
+        "disable-event"
+    ],
+    "readmeFilename": "README.md",
+    "homepage": "http://ignitersworld.com/lab/eventPause.html",
+    "demo": "http://ignitersworld.com/lab/eventPause.html#demo",
+    "docs": "http://ignitersworld.com/lab/eventPause.html#documentation"
+}

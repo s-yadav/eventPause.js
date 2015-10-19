@@ -1,8 +1,8 @@
 /*
-eventPause.js v 1.0.0
+eventPause.js v 1.0.1
 Author: sudhanshu yadav
 s-yadav.github.com
-Copyright (c) 2013 Sudhanshu Yadav.
+Copyright (c) 2013 - 2015 Sudhanshu Yadav.
 Dual licensed under the MIT and GPL licenses
 */
 	;(function ($, window, document, undefined) {
@@ -123,7 +123,7 @@ Dual licensed under the MIT and GPL licenses
 					eventJson.push('mouseover');
 					}
 					else if(events[i]=='mouseleave')	{
-					eventJson.push('mouseoout');
+					eventJson.push('mouseout');
 					}
 					else{
 						eventJson.push(events[i]);
