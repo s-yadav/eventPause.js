@@ -8,7 +8,7 @@ But there some situation comes where we just want to pause event (or say unbind 
 But this become painful on binding event again when there is no reference of  event handler or you don&rsquo;t have its scope, or you just don&rsquo;t know what event  handlers are assigned to a particular event.</p>
 So this plugin will help you there and will give control on events in better way. 
 <p>
-Demo :<a href="http://ignitersworld.com/lab/eventPause.html">http://ignitersworld.com/lab/eventPause.html</a>
+
 <br/>
 <div id="pluginMethod">
 <a href="#pluginMethodEx"><h3>Plugin Methods</h3></a><br />
